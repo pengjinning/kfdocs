@@ -11,6 +11,12 @@ function App() {
         <p>
           Hello Web3
         </p>
+        <p>decentralized version of zendesk</p>
+        <p>decentralized helpdesk platform</p>
+        <p>decentralized knowledgebase</p>
+        <p>decentralized chat</p>
+        <p>decentralized ticket system</p>
+        <p>decentralized AI chatbot</p>
       </header>
     </div>
   );
